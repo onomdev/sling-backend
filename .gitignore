@@ -1,0 +1,8 @@
+/node_modules
+/dist
+# Logs
+/logs
+*.log
+
+# Coverage directory used by tools like istanbul
+/coverage
